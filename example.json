@@ -1,0 +1,8 @@
+{
+  "lambda" : {
+    "file" : "test.js",
+    "function" : "test",
+    "apiVersion": "2015-03-31",
+    "region": "us-east-1"
+  }
+}
